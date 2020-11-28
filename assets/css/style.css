@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*changes background color of the body*/
 body {
     background-color: #d9dcd6;
 }
 
+/*adds a font family to the header and changes the color of the text and background*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/*changes to siz eof the header font*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*changes color of seo inside of horiseon*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*makes the header div float right and makes the header div and different size and font*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +37,7 @@ body {
     font-size: 20px;
 }
 
+/*gives the header div ul no list style*/
 .header div ul {
     list-style-type: none;
 }
@@ -41,15 +47,18 @@ body {
     margin-left: 25px;
 }
 
+/*gives the text color in a */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* gives text size for p*/
 p {
     font-size: 16px;
 }
 
+/* gives the image a height and width*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +84,7 @@ p {
     margin-left: 20px;
 }
 
+/* Gives benefit a font family, a color for the background, and also how big to make the box*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,54 +96,61 @@ p {
     background-color: #2589bd;
 }
 
+/*makes the color of .benefit-lead white*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*makes the color of .benefit-brand white*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*makes the color of .benefit-cost white*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*makes the .benefit-lead text center*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*makes the .benefit-brand text center*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*makes the .benefit-cost text center*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*gives the .benefit-lead img margins and a max width*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*gives the .benefit-brand img margins and a max width*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*gives the .benefit-cost img margins and a max width*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* makes .search-engine-optimization a background color and a font color and family*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +160,7 @@ p {
     color: #ffffff;
 }
 
+/* makes .online-reputation-management a background color and a font color and family*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +170,7 @@ p {
     color: #ffffff;
 }
 
+/* makes .social-media-marketing a background color and a font color and family*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,33 +180,39 @@ p {
     color: #ffffff;
 }
 
+/* makes the max height of 200px to search-engine-optimization*/
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* makes the max height of 200px to online-reputation-management*/
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* makes the max height of 200px to social-media-marketing*/
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* gives font size to search-engine-optimization*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* gives font size to online-reputation-management*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* gives font size to text social-media-marketing*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* gives the footer a font family and to center text*/
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +220,7 @@ p {
     text-align: center;
 }
 
+/* makes the footer h2 font size 20px*/
 .footer h2 {
     font-size: 20px;
 }
