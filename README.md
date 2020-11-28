@@ -8,7 +8,7 @@ On this webpage I had to change the HTML to semantic HTML. I did this by using a
 
 ## Link
 
-https://rubbokate.github.io/week1homework/
+[Link to Webpage](https://rubbokate.github.io/week1homework/)
 
 ## Screenshots
 
